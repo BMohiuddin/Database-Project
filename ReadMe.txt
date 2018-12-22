@@ -1,4 +1,5 @@
 Search Engine:
+https://drive.google.com/open?id=1gCA6RQF-y3sKkqJGL16d33eVJbZW1Wm8 is a link to a bak file containing the database
 -The database must be created using the provided bak file
 -in the dbconnections class appropriate details for the users sql server connection need to be provided for functionality
 -the format for that is: in db connections replace : public SqlConnection conn = new SqlConnection(@"Data Source=[your sql server name];Initial Catalog=DBProject;Integrated Security=True");
